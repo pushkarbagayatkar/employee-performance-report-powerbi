@@ -44,17 +44,6 @@ It focuses on **employee performance metrics** and **attrition trends**, providi
 ![Dashboard](Images/1_Overview.png)
 
 ---
-<!--
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.
-2. Open the file in **Power BI Desktop** (latest version recommended).
-3. Use the interactive filters to explore:
-   - Region-specific performance
-   - Product category sales
-   - Monthly trends and profit margins
-
----
--->
 
 ## 📜 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
